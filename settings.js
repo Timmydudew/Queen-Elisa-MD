@@ -34,7 +34,7 @@ global.APIKeys = {
 //other
 global.owner = ['2348050261876'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['2348050261876'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.premium = ['2348050261876'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Timmy' // Your name ඔබේ නම 
 global.botnma = '💃 Issei-hyodu 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = 'Timmy' //ownernama,ownername
