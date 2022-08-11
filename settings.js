@@ -40,12 +40,12 @@ global.botnma = '💃 Issei-hyodu 💃' // Your bot name , ඔබගෙ බො�
 global.ownernma = 'Timmy' //ownernama,ownername
 global.packname = 'Timmy senpai Sticker' // Sticker package name 
 global.author = 'Timmy // Sticker Autor name 
-global.sessionName = 'file'
+global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alive =`Hello i am alive now thanks to Timmy
 
 Download song type .yt 
 Thanks fro using...`
